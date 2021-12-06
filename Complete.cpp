@@ -21,4 +21,4 @@ int main()
 	fc::Out(n, m, mass); // функция вывода
 
 	return 0;
-}e
+}
