@@ -1,7 +1,7 @@
 #include <iostream>
 #include<fstream>
 
-#include "Functions.h"
+#include "Functions.hpp"
 
 using namespace std;
 
